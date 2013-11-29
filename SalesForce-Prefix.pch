@@ -1,0 +1,24 @@
+//
+// Prefix header for all source files of the 'SalesForce' target in the 'SalesForce' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+//    #import <QuartzCore/QuartzCore.h>
+
+    #import "URL.h"
+    #import "JSONKit.h"
+    #import "Defines.h"
+    #import "CommonUtil.h"
+    #import "LoadingView.h"
+    #import "httpRequest.h"
+    #import "AppDelegate.h"
+#import "GlobalValue.h"
+#endif

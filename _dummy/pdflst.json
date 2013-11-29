@@ -1,0 +1,50 @@
+{
+    "results": [
+        {
+            "cntntsId": "CNTNTS_ykYbE0rzSCi8imTfHPb7yw",
+            "prductCd": "JKWM31041",
+            "prductNm": "하절 전문형 W/S 자켓",
+            "expsrOrdr": 1,
+            "shopCd": "6J1849",
+            "rspr": 0,
+            "copr": 285000,
+            "matt": "해외",
+            "maker": "코오롱인더스트리(주) FnC부문",
+            "origNm": "중국",
+            "brandCd": "6J",
+            "planYy": "2013",
+            "colorCd": "JA",
+            "pumCd": "W",
+            "repPrductCd": "JKWM31021",
+            "jegoTotqy": 8,
+            "otherTotqy": 28,
+            "thumbUrl": "http://image.fnckolon.com/Prod_Img/6J/2013/1/JKWM31041JA_1.jpg",
+            "prductUrl": "http://image.fnckolon.com/Prod_Img//6J/2013/4/JKWM31041JA_4.jpg"
+        },
+        {
+            "cntntsId": "CNTNTS_ykYbE0rzSCi8imTfHPb7yw",
+            "prductCd": "JWTM34471",
+            "prductNm": "EAGLE PRINT  ROUND T ",
+            "expsrOrdr": 1,
+            "shopCd": "6J1849",
+            "rspr": 0,
+            "copr": 0,
+            "matt": "국내",
+            "maker": "코오롱인더스트리(주) FnC부문",
+            "origNm": "국내",
+            "brandCd": "6J",
+            "planYy": "2013",
+            "colorCd": "BL",
+            "pumCd": "T",
+            "repPrductCd": "JWTM34311",
+            "jegoTotqy": 5,
+            "otherTotqy": 26,
+            "thumbUrl": "http://image.fnckolon.com/Prod_Img/6J/2013/1/JWTM34471BL_1.jpg",
+            "prductUrl": "http://image.fnckolon.com/Prod_Img//6J/2013/4/JWTM34471BL_4.jpg"
+        }
+    ],
+    "status": {
+        "statusCd": "200",
+        "statusMssage": "OK"
+    }
+}
